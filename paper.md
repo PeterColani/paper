@@ -1,8 +1,9 @@
 # Title 
-Aircraft mesurments of biomass burning over West Africa
+Aircraft mesurments and simulations of biomass burning over West Africa
 
 # Author
 Petr Nikolaev
+Zhuzhu Zhu
 
 # Introduction
 We present some data that we obtained during our experiment that were conducted many years ago.
@@ -15,3 +16,8 @@ I complete lost.
 
 No I have found myself. IT helped me to undesrtand that no rushing must be done during
 the experiments and simulation of the data,
+
+#Methods
+
+The model cover a lot of different components of the our world, which makes it so beutiful.
+
