@@ -1,5 +1,5 @@
 # Title 
-Aging of biomass burning over West Africa
+Aircraft mesurments of biomass burning over West Africa
 
 # Author
 Petr Nikolaev
