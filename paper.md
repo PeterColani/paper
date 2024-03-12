@@ -2,6 +2,7 @@
 Aircraft mesurments and simulations of biomass burning over West Africa
 
 # Author
+Li Lili
 Petr Nikolaev
 Zhuzhu Zhu
 
