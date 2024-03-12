@@ -24,3 +24,7 @@ The model cover a lot of different components of the our world, which makes it s
 # Results
 
 We have done everything right, and everythings work perfectly.
+
+# Fugures
+
+There are many of them, but none are presented in this text. BEcasue it is a text file.
